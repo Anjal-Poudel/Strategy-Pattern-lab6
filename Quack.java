@@ -1,5 +1,7 @@
-public class FlyNoWay implements FlyBehavior {
-    public void fly() {
-        System.out.println("I can't fly.");
+public class Quack implements QuackBehaviour {
+
+    @Override
+    public void quack() {
+        System.out.println("Quack Quack!");
     }
 }
