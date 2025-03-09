@@ -1,5 +1,3 @@
-package lab-java.assignment_6;
-
-public class FlyBehavior {
-    
+public interface FlyBehavior {
+    public void fly();
 }
