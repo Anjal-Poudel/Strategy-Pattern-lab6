@@ -1,3 +1,7 @@
+// Name: Anjal Poudel
+// PRN: 23070126171
+// Batch: AIML(A3)
+
 public class Main {
     public static void main(String[] args) {
         Duck mallardDuck = new MallardDuck();
